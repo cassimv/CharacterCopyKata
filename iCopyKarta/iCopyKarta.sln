@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "iCopyKarta", "iCopyKarta\iCopyKarta.csproj", "{BA12B799-EDAA-42DD-AE2D-22D32DC02BD8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestiCopyKarta", "..\TestiCopyKarta\TestiCopyKarta\TestiCopyKarta.csproj", "{6AB925D2-3257-4D1F-B56F-6524C8772A05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA12B799-EDAA-42DD-AE2D-22D32DC02BD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA12B799-EDAA-42DD-AE2D-22D32DC02BD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA12B799-EDAA-42DD-AE2D-22D32DC02BD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA12B799-EDAA-42DD-AE2D-22D32DC02BD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AB925D2-3257-4D1F-B56F-6524C8772A05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AB925D2-3257-4D1F-B56F-6524C8772A05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AB925D2-3257-4D1F-B56F-6524C8772A05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AB925D2-3257-4D1F-B56F-6524C8772A05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DBE423C-E407-4088-B49C-7526F962C82B}
+	EndGlobalSection
+EndGlobal
